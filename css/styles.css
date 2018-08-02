@@ -25,3 +25,19 @@ footer.summary {
   color: white;
   text-shadow: 2px 2px 2px black;
 }
+
+blockquote.white {
+  background-color: white;
+}
+
+footer.quote {
+  font-style: italic;
+  font-size: 16px;
+  color: black;
+}
+
+.column {
+  width: 48%;
+  float: left;
+  margin: 0% 1%;
+}
