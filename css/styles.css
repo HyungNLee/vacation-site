@@ -1,0 +1,27 @@
+img.intro {
+  width:40%
+}
+
+p.summary {
+  width:55%;
+  float:right;
+  font-size: 16px;
+}
+
+footer.summary {
+  width:55%;
+  float:right;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.container .jumbotron {
+  background-image: url("../img/flag.png");
+  background-size: contain;
+  opacity: 1;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
